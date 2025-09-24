@@ -1,4 +1,4 @@
-# Neutron Star Structure Solver
+# Modelling of Neutron Stars
 
 ### PH755: Computational Physics Project - NITK, India
 
