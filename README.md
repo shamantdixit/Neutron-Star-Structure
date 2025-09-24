@@ -35,7 +35,7 @@ The primary graphical outputs are the mass-radius (M-R) curves for the different
 ![M-R Curve Comparison](results/tov_mr_curves_comparison.png)
 
 **Comparison of GR vs. Newtonian Structure**
-![Comparison of internal profiles](results/newt_vs_tov_profiles.png)
+![Comparison of internal profiles](results/newt_tov_profiles.png)
 
 ---
 
